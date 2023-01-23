@@ -1,9 +1,9 @@
 # IService-M3
 
-Participantes do projeto:
-Helbert Abreu
-Lucas Barcelos Meira
-Lucas Vale
+#### Participantes do projeto:
+Helbert Abreu, 
+Lucas Barcelos Meira, 
+Lucas Vale, 
 Pedro Lima
 
 
