@@ -1,23 +1,27 @@
 # IService-M3
 
-O que é a nossa aplicação?
+Participantes do projeto:
+Helbert Abreu
+Lucas Barcelos Meira
+Lucas Vale
+Pedro Lima
+
+
+#### O que é a nossa aplicação?
 IService é uma aplicação criada para ajudar pessoas com dificuldade em contratar certos tipos de serviço. Também ajuda os prestadores de serviço a serem encontrados e contratados com mais facilidade.
 
-O que nossa aplicação faz?
+#### O que nossa aplicação faz?
 Ajudamos as pessoas a contratar serviços específicos que nem sempre são fáceis de encontrar. Você pode contratar um pedreiro para um pequeno reparo, bombeiro hidráulico para manutenção e vários outros serviços. Além disso ajudamos os prestadores de serviço serem mais facilmente encontrado por quem necessita de um serviço mais informal.
 
-Quais são os requisitos para utilizar nossa aplicação?
+#### Quais são os requisitos para utilizar nossa aplicação?
 Como contratante basta entrar na nossa aplicação, escolher o serviço desejado, entrar em contato com um de nossos parceiros e pronto!
 Como prestador de serviço basta fazer o cadastro na nossa plataforma preenchendo os dados como nome, contato e tipo de serviço prestado. A partir daí é só aguardar as pessoas entrarem em contato com você.
 
-<h1 align="center">Iservice - API</h1>
+<h1 align="center">iService - API</h1>
 
 Está é uma Fake API provisória para a conclusão do trabalho final do Grupo 7 do M3.
 A url base da API é [https://iserviceapig7.herokuapp.com/](https://iserviceapig7.herokuapp.com/).
 
-## **Endpoints**
-
-A API possui um total de X endpoints.
 
 ## **Rotas que não precisam de autenticação**
 
@@ -45,7 +49,6 @@ Podemos utilizar query params para mudar a paginação da lista, podendo alterar
 
 `COLOCAR AQUI A FORMA DE REQUISIÇÃO COM O FORMATO DA RESPOSTA - STATUS 200`
 
-**\*\*\***COLOCAR AQUI O JSON DO FORMATO**\*\*\***
 
 Podemos acessar um serviço específico utilizando o seguinte endpoint:
 
@@ -135,3 +138,10 @@ Caso a requisição seja feita corretamente, a resposta será assim:
   }
 }
 ```
+
+## ⚡ Deploy
+
+Para acesso e testes em produção:
+
+* [Projeto em produção](https://kenziehub-phi-seven.vercel.app/login) - Deploy realizado no vercel
+
